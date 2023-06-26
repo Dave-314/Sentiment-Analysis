@@ -2,6 +2,8 @@
 
 Welcome to our thrilling GitHub repository dedicated to Natural Language Processing (NLP) and Sentiment Analysis. Join us on an exhilarating journey as we dive deep into the realm of analyzing IMDB movie reviews, unraveling the emotions concealed within the text!
 
+If you are new to GitHub click [here](https://github.com/Dave-314/Sentiment-Analysis/blob/main/NLP_Portfolio_Multinomail_NB_and_Hugging_Face.ipynb) to view the project.
+
 🎥🔍🔮
 
 ## What's Inside?
